@@ -1,7 +1,7 @@
 import sbt._
 
 object Version {
-  final val Scala     = "2.11.8"
+  final val Scala     = "2.12.0"
   final val ScalaTest = "3.0.0"
 }
 
